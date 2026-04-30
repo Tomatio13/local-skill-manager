@@ -1,0 +1,13 @@
+{
+  "store_path": "~/.Temple_of_skills",
+  "link_targets": [
+    "~/.claude",
+    "~/.agents",
+    "~/.cursor",
+    "~/.gemini",
+    "~/.gemini/antigravity",
+    "~/.copilot",
+    "~/.config/opencode",
+    "~/.codeium/windsurf"
+  ]
+}

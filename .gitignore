@@ -1,0 +1,25 @@
+# Local configuration
+config.json
+.git-local/
+
+# Build artifacts
+local-skill-manager
+dist/
+
+# Go build and module caches
+.cache/
+
+# Local tooling
+.agents/
+.codex/
+.firecrawl/
+.serena/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+.serena/
+.codex
+.agents/
+.github/
