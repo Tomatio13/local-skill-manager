@@ -145,7 +145,7 @@ make build-cross
 - `local-skill-manager_windows_amd64.zip`
 - `local-skill-manager_windows_arm64.zip`
 
-GitHub Releases に載せる場合は、`dist/` に生成された zip を手動でアップロードできます。
+GitHub Releases 用の自動ビルドは `.github/workflows/release.yml` で定義してあり、`v0.1.0` のようなタグを push すると各 OS 向けの zip を同時に添付できます。
 
 ## 🎮 使い方
 

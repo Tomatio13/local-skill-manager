@@ -145,7 +145,7 @@ Artifacts are generated in `dist/` as both raw binaries and zip archives:
 - `local-skill-manager_windows_amd64.zip`
 - `local-skill-manager_windows_arm64.zip`
 
-You can upload the generated zip files in `dist/` to GitHub Releases manually.
+GitHub Releases are built automatically by `.github/workflows/release.yml` when you push a tag like `v0.1.0`. Release assets are uploaded as zip files.
 
 ## 🎮 Usage
 
