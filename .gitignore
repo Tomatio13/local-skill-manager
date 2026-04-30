@@ -3,7 +3,7 @@ config.json
 .git-local/
 
 # Build artifacts
-local-skill-manager
+/local-skill-manager
 dist/
 
 # Go build and module caches
@@ -18,8 +18,3 @@ dist/
 # OS metadata
 .DS_Store
 Thumbs.db
-
-.serena/
-.codex
-.agents/
-.github/
